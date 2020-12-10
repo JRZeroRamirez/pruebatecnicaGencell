@@ -1,0 +1,21 @@
+BD en MYSQL  
+nombre curso prueba
+
+codigo realizado en PHP 
+
+EDITADO VISUALCODE 
+
+programa sistema de cursos 
+login 
+validacion de rol
+
+rol 1  administrador  (USUARIO: JR1 PASS: 12345 Rol: administrador)
+rol 2 estudiante      (usuario: JOSE PASS: 123 ROL: estudiante ) 
+rol 3 profesor        (USUARIO: JEISSON PASS:123 ROL: profesor)   
+cada rol tiene acceso a distintos modulos 
+
+administrador registra edita y elimina  otros usuarios 
+
+estudiante ve cursos registrados
+
+profesor ve estudiantes y cursos registrados  
